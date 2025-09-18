@@ -6,3 +6,6 @@ remappings = [
   "@chainlink/contracts/=lib/chainlink-evm/contracts/",
   "forge-std/=lib/forge-std/src/"
 ]
+
+[rpc_endpoints]
+sepolia = "https://eth-sepolia.g.alchemy.com/v2/Xuhu970dE7I-ZjvZvY3Ie"
