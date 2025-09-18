@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+script = "script"
+libs  = ["lib"]
+remappings = [
+  "@chainlink/contracts/=lib/chainlink-evm/contracts/",
+  "forge-std/=lib/forge-std/src/"
+]
